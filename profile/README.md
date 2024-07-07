@@ -1,5 +1,5 @@
 
-Quantogic.
+🚀 QuantaLogic.
 
 
 AI-Powered Agent Platform
