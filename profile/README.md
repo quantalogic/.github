@@ -12,6 +12,10 @@ The `cli` version include coding capabilities comparable to Aider.
 
 [📖 Documentation](https://quantalogic.github.io/quantalogic/)
 
+[🧑‍💻 Corporate Web wite](https://www.quantalogic.app/)
+
+[📗 Blog](https://www.quantalogic.app/blogs)
+
 
 ## Why QuantaLogic?
 
